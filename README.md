@@ -1,3 +1,3 @@
 # ARC Project Tracker
 
-This is the full source code for your Auburn-themed project tracking app.
+This is a full project tracker built with React, Supabase, and Vite.

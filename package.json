@@ -1,4 +1,18 @@
 {
   "name": "arc-project-tracker",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
+    "frappe-gantt": "^0.6.1"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
 }
